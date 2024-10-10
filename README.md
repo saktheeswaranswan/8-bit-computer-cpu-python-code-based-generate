@@ -6,6 +6,14 @@ While studying the 8085 microprocessor, I was looking for resources to deepen my
 
 ![image](https://github.com/user-attachments/assets/377b9600-227c-43f2-aedd-b149b6d86a7e)
 
+Video Demonstrationf of it doing Division 45/6 using repeated Subtraction
+https://github.com/user-attachments/assets/58d25301-dfa3-4fdd-86b5-c034da404d1d
+
+
+Another demo of it doing a multiplication 5x8 program using repeated addition 
+https://github.com/user-attachments/assets/a7a0f9d9-6ef0-4bc6-86e7-c139ee12b151
+
+
 
 You can check out a recorded demonstration of the Division program on my Twitter post [here](https://x.com/0xJatinChopra/status/1818348699078250912).
 
