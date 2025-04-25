@@ -1,5 +1,22 @@
 # 8-Bit Computer in Logisim
 https://github.com/Abijeet123/8-bit-computer-in-logisim.git
+
+
+
+
+https://github.com/zak-off-zak/8-bit-computer
+
+
+
+
+
+
+
+
+
+
+
+
 This is my 8-bit SAP that i build watching ben eather youtube playlist.
 
 While studying the 8085 microprocessor, I was looking for resources to deepen my understanding of its internal workings. I came across the r/emudev subreddit, where I saw people building interesting projects in Logisim. This led me to discover Ben Eater's 8-bit SAP-1 YouTube playlist. After completing my studies on the 8085, I went through the entire playlist and implemented the SAP-1 in Logisim.
